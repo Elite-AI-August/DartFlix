@@ -81,10 +81,6 @@ Flutter SDK
 ```
 Clone the project
 
-```bash
-  git clone https://github.com/Pavel401/DartFlix
-```
-
 Go to the project directory
 
 ```bash
@@ -179,8 +175,7 @@ download these two datasets and put it in the recommendation api folder.
 
 ## API Reference
  Deployed  Api : https://enage22.herokuapp.com/
-  
-  API project can be found here https://github.com/Pavel401/Enage-Recommendation-API
+ 
 
 #### Get MOVIE DETAILS
 
